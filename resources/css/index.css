@@ -1,0 +1,143 @@
+body{
+    font-family: Verdana,Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+hr{
+    border-style: dashed;
+}
+
+.navbar{
+    background-color:#5d648e ;
+    padding: 10px;
+    line-height: 20px;
+    border-radius: 10px 10px 0px 0px;
+    font-weight: bold;
+    color: white;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+}
+
+.logo{
+   text-align: center;    
+}
+
+
+.telegram{
+    background-color: #F6F7F8;
+    text-align: center;
+    padding:10px 10px 5px 10px;
+    border-top: 1px solid #CED5E5;
+    border-bottom: 1px solid #CED5E5;
+}
+
+.telegram a{
+    font-weight: bold;
+    color:#333333 ;
+    text-decoration: none;
+}
+
+.searchbar{
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+#search-bar{
+    width: 90%;
+}
+
+.india{
+    text-align: center;
+}
+
+.recently{
+    background-color: #5d648e;
+    text-align: center;
+    height:30px;
+    padding-top: 10px;
+    color: white;
+    font-weight: bold;
+
+}
+
+#recents ul{
+    list-style-type: none;
+}
+
+.avatar{
+    background-image: url("../images/green\ arrow.jpg");
+    background-size: cover;
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#update{
+    margin-left: 50px;
+}
+
+.tvseries{
+    text-align: center;
+    background-color: #5d648e;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.ad2{
+    text-align: center;
+}
+
+.a-c{
+    color: #443D3D;
+}
+
+.more{
+    border-radius: 5px;
+    background-color: #5d648e;
+    color: white;
+    margin-top: -15px;
+    padding: 0px 4px;
+    float: right;
+}
+
+.ad{
+    text-align: center;
+}
+
+.mp4{
+    background-color: #5d648e;
+    color: white;
+    padding: 10px;
+}
+
+.btc{
+    color: #333333;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    vertical-align: middle;
+    background-color: #F6F7F8;
+    border-top: 1px solid #CED5E5;
+    border-bottom: 1px solid #CED5E5;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.footer{
+    margin-top: 5px;
+    padding: 10px 0px;
+    border-radius: 0px 0px 10px 10px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: #5d648e;
+}
